@@ -14,4 +14,4 @@ I took a break from Machine Learning to explore more directly for others. It led
 
 As self-study projects, I've had a look at Neuroeconomics literature, metabolic health literature and Reinforcement Learning methodology.
 
-Aside of that, I love the challenge of gym improvement, Jiu Jitsu, Climbing, cycling, reading and working with other people.
+Aside of that, I love my gym routine, Jiu Jitsu, Climbing, cycling, reading and working with other people.
