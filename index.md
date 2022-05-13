@@ -15,3 +15,16 @@ I took a break from Machine Learning to explore more directly for others. It led
 As self-study projects, I've had a look at Neuroeconomics literature, metabolic health literature and Reinforcement Learning methodology.
 
 Aside of that, I love my gym routine, Jiu Jitsu, Climbing, cycling, reading and working with other people.
+
+### View on Data Science
+
+Often there's a high focus on Modelling Methods - your favourite Neural Network, Tree methods, ... While these are very useful tools, the whole Data Science process has some important steps that underemphasized in my opinion. 
+
+- Exploratory analyses to understand the data
+- The importance of finding appropriate outcomes and metrics to solve your question. 
+- Do you want interventional insight? This requires investigating the structure behind your data more deeply. 
+- Developing diagnostics and validation methods to `really` understand what the conclusions of your analyses and models are
+
+These tend to be more vague and chaotic. Moreover, they often depend heavily on the problem and solution method at hand. These are primary as they define the question and conclusions. Then a series of complex approximators can be considered if necessary, in an iterative process where the above can be adapted as you start to understand the data better.
+
+I hope to illustrate these in the examples on this website.
