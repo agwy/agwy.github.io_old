@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Arne, an enthusiast of using Data-Driven Computational Methods to practically improve the health of people - think Visualization, Machine Learning and Computational Statistics. I'm deeply fascinated by learning in all its different forms. From Nutrition, the body and Cognitive Psychology to learning Jiu Jitsu and how cultural differences guide our lives.
+I'm Arne, an enthusiast of using Data Science to practically improve the health of people - think Visualization, Machine Learning and Computational Statistics. I'm deeply fascinated by learning in all its different forms. From Nutrition, the body and Cognitive Psychology to learning Jiu Jitsu and how cultural differences guide our lives.
 
 Science and Engineering often pose questions that can only be addressed with complex data. Distilling and communciating meaning out of that data to improve people's lives yield amazing puzzles. I'll use this website to showcase some examples of how that can be done.
 
